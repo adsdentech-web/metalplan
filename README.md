@@ -69,7 +69,6 @@ metalplan/
 ├── script.js           # JavaScript
 ├── nova-logo-metalplan.png      # Logo principal
 ├── logo-40-anos-transparente.png # Logo 40 anos
-├── logo-metalplan.jpeg          # Logo antiga (backup)
 └── README.md           # Este arquivo
 ```
 
